@@ -1,8 +1,8 @@
-<h2 align="center">Hugo Jobé</h2>
+<h2>Hugo Jobé</h2>
 
 ###
 
-<p align="center">Indie Game Developer</p>
+<p>Indie Game Developer</p>
 
 ###
 
@@ -19,11 +19,11 @@
 
 ###
 
-<p align="center">My techs</p>
+<p>My techs</p>
 
 ###
 
-<div align="center">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
@@ -39,11 +39,11 @@
 
 ###
 
-<p align="center">My links</p>
+<p>My links</p>
 
 ###
 
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/hugo-job%C3%A9/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
