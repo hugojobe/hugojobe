@@ -8,12 +8,13 @@
 
   <b>Game Projects:</b>
   <ul>
-    <li>https://github.com/hugojobe/PMJV_Atelier</li>
+    <li>[ Code Architect ] (https://github.com/hugojobe/CodeArchitect)</li>
+    <li>[ Travel8 ] https://github.com/hugojobe/PMJV_Atelier</li>
   </ul>
   <b>Engine Tools:</b>
   <ul>
-    <li>https://github.com/hugojobe/JLogs</li>
-    <li>https://github.com/hugojobe/AudioMachine</li>
+    <li>[ JLogs ] https://github.com/hugojobe/JLogs</li>
+    <li>[ Audio Machine ] https://github.com/hugojobe/AudioMachine</li>
   </ul>
 </p>
 
