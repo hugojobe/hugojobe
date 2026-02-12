@@ -14,7 +14,7 @@
   <b>Engine Tools:</b>
   <ul>
     <li>[ JLogs ] https://github.com/hugojobe/JLogs</li>
-    <li>[ Audio Machine ] https://github.com/hugojobe/AudioMachine</li>
+    <li>[ Audio Machine ] https://assetstore.unity.com/packages/slug/358984</li>
   </ul>
 </p>
 
