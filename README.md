@@ -8,13 +8,17 @@
 
   <b>Game Projects:</b>
   <ul>
-    <li>[ Code Architect ] (https://github.com/hugojobe/CodeArchitect)</li>
+    <li>[ Dropout ] (https://antoniogozzi.itch.io/drop-out)</li>
     <li>[ Travel8 ] https://github.com/hugojobe/PMJV_Atelier</li>
   </ul>
   <b>Engine Tools:</b>
   <ul>
-    <li>[ JLogs ] https://github.com/hugojobe/JLogs</li>
-    <li>[ Audio Machine ] https://assetstore.unity.com/packages/slug/358984</li>
+    <li>[ Audio Machine for Unity ] https://assetstore.unity.com/packages/slug/358984</li>
+    <li>[ JLogs for UE5 ] https://github.com/hugojobe/JLogs</li>
+  </ul>
+  <b>Other Projects:</b>
+  <ul>
+    <li>[ The Indie Finder ] [https://github.com/hugojobe/JLogs](https://theindiefinder.com/)</li>
   </ul>
 </p>
 
