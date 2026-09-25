@@ -9,7 +9,7 @@
   <b>Game Projects:</b>
   <ul>
     <li>[ Dropout ] (https://antoniogozzi.itch.io/drop-out)</li>
-    <li>[ Travel8 ] https://github.com/hugojobe/PMJV_Atelier</li>
+    <li>[ Travel8 ] Pending modifications</li>
   </ul>
   <b>Engine Tools:</b>
   <ul>
