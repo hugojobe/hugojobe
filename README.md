@@ -29,5 +29,5 @@
 |---|---|---|
 | **[Chess Tactical RPG](https://github.com/hugojobe/Tactical-RPG-Unreal)** | A turn-based tactics game on chess pieces. | Unreal 5, C++ |
 | **[Unreal DevOps Pipeline](https://github.com/hugojobe/Unreal-Devops-Pipeline)** | Nightly and on-submit builds for an Unreal project. Self-hosted on Proxmox. | Proxmox, TeamCity, Perforce |
-| **[Audio Machine for Unity](TODO-asset-store-link)** | Unity audio tool published on the Asset Store. | Unity, C# |
+| **[Audio Machine for Unity](https://assetstore.unity.com/packages/tools/audio/audio-machine-pro-easy-sfx-and-music-358984)** | Unity audio tool published on the Asset Store. | Unity, C# |
 | **[Games on itch.io](https://hugo-jobe.itch.io)** | Game jam and school/personal projects. | Unity, Unreal |
