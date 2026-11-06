@@ -8,7 +8,7 @@
 
   <b>Game Projects:</b>
   <ul>
-    <li>[ Itch.io ] (https://hugo-jobe.itch.io/)</li>
+    <li>[ Itch.io ] https://hugo-jobe.itch.io/</li>
   </ul>
   <b>Engine Tools:</b>
   <ul>
@@ -16,7 +16,7 @@
   </ul>
   <b>Other Projects:</b>
   <ul>
-    <li>[ The Indie Finder ] [https://github.com/hugojobe/JLogs](https://theindiefinder.com/)</li>
+    <li>[ The Indie Finder ] https://theindiefinder.com/</li>
   </ul>
 </p>
 
