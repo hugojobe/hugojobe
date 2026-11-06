@@ -8,6 +8,7 @@
 
   <b>Game Projects:</b>
   <ul>
+    <li>[ Chess Tactical RPG ] https://github.com/hugojobe/Tactical-RPG-Unreal</li>
     <li>[ Itch.io ] https://hugo-jobe.itch.io/</li>
   </ul>
   <b>Engine Tools:</b>
