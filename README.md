@@ -1,63 +1,33 @@
-<h2>Hugo Jobé</h2>
+<h1 align="center">Hugo Jobé</h1>
 
-###
-
-<p>Indie Game Developer</p>
-
-###
-
-  <b>Game Projects:</b>
-  <ul>
-    <li> [ Unreal devops Pipeline ] https://github.com/hugojobe/Unreal-Devops-Pipeline</li>
-    <li>[ Chess Tactical RPG ] https://github.com/hugojobe/Tactical-RPG-Unreal</li>
-    <li>[ Itch.io ] https://hugo-jobe.itch.io/</li>
-  </ul>
-  <b>Engine Tools:</b>
-  <ul>
-    <li>[ Audio Machine for Unity ] https://assetstore.unity.com/packages/slug/358984</li>
-  </ul>
-  <b>Other Projects:</b>
-  <ul>
-    <li>[ The Indie Finder ] https://theindiefinder.com/</li>
-  </ul>
+<p align="center">
+  <b>Gameplay & tools programmer</b> · Unreal Engine (C++) · Unity (C#)<br>
+  Gameplay programming · Build pipelines & developer tooling<br>
+  📍 Belgium
 </p>
 
-###
+<p align="center">
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unrealengine&logoColor=white" alt="Unreal Engine">
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/TeamCity-000000?style=flat&logo=teamcity&logoColor=white" alt="TeamCity">
+  <img src="https://img.shields.io/badge/Perforce-404040?style=flat&logo=perforce&logoColor=white" alt="Perforce">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n">
+</p>
 
-<p>My techs</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/hugo-job%C3%A9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://hugo-jobe.itch.io"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io"></a>
+  <a href=https://www.instagram.com/_hugo_jobe_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
 
-###
+## Selected work
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" height="40" alt="rider logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
-</div>
-
-###
-
-<p>My links</p>
-
-###
-
-<div>
-  <a href="https://www.linkedin.com/in/hugo-job%C3%A9/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://hugo-jobe.itch.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/itch/default.svg" width="52" height="40" alt="itch logo"  />
-  </a>
-  <a href="https://www.instagram.com/_hugo_jobe_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
+| Project | What it is | Stack |
+|---|---|---|
+| **[Chess Tactical RPG](https://github.com/hugojobe/Tactical-RPG-Unreal)** | A turn-based tactics game on chess pieces. | Unreal 5, C++ |
+| **[Unreal DevOps Pipeline](https://github.com/hugojobe/Unreal-Devops-Pipeline)** | Nightly and on-submit builds for an Unreal project. Self-hosted on Proxmox. | Proxmox, TeamCity, Perforce |
+| **[Audio Machine for Unity](TODO-asset-store-link)** | Unity audio tool published on the Asset Store. | Unity, C# |
+| **[Games on itch.io](https://hugo-jobe.itch.io)** | Game jam and school/personal projects. | Unity, Unreal |
