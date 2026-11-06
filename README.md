@@ -8,13 +8,11 @@
 
   <b>Game Projects:</b>
   <ul>
-    <li>[ Dropout ] (https://antoniogozzi.itch.io/drop-out)</li>
-    <li>[ Travel8 ] Pending modifications</li>
+    <li>[ Itch.io ] (https://hugo-jobe.itch.io/)</li>
   </ul>
   <b>Engine Tools:</b>
   <ul>
     <li>[ Audio Machine for Unity ] https://assetstore.unity.com/packages/slug/358984</li>
-    <li>[ JLogs for UE5 ] https://github.com/hugojobe/JLogs</li>
   </ul>
   <b>Other Projects:</b>
   <ul>
